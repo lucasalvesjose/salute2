@@ -12,5 +12,7 @@
             "email": "lucasalvesjose@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "chillerlan/php-qrcode": "^5.0"
+    }
 }
