@@ -1,0 +1,16 @@
+{
+    "name": "admin/salute2",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Salute2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lucasalvesjose",
+            "email": "lucasalvesjose@gmail.com"
+        }
+    ],
+    "require": {}
+}
